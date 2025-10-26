@@ -28,7 +28,7 @@ while True:
             elif(mode == "RAND"):
                 client_socket.send(('The Random Number Is: ' + str(random.randint(1,10))).encode())
             else:
-                print("The Client Didnt Want Nothing")
+                print("The Client Didn't Want Nothing")
             client_socket.close()
     except socket.error as err:
         print('received socket error on server socket' + str(err))
