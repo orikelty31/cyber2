@@ -7,8 +7,8 @@ time = datetime.datetime.now()
 SERVER_NAME = "Ori Server"
 QUEUE_LEN = 1
 
-mode = None
-while (mode != "EXIT"):
+
+while True:
     my_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     try:
         my_socket.bind(('0.0.0.0', 1729))
