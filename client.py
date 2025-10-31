@@ -60,17 +60,9 @@ if __name__ == '__main__':
         filemode="a",
     )
 
-    """
-    # Test messages
-    logger.debug("Harmless debug Message")
-    logger.info("Just an information")
-    logger.warning("Its a Warning")
-    logger.error("Did you try to divide by zero")
-    logger.critical("Internet is down")
-    """
 
     assert isinputvalid("TIME") == True , "Assert Test Failed"
     assert isinputvalid("BLABLA") == False , "Assert Test Failed"
     assert isinputvalid("EXIT") == "EXIT" , "Assert Test Failed"
-
+    logging.info("All Assert Tests Passed")
     main()

@@ -59,12 +59,10 @@ if __name__ == '__main__':
         format="%(asctime)s - %(levelname)s - %(message)s",
         filemode="a",
     )
-    """"
-    # Test messages
-    logger.debug("Harmless debug Message")
-    logger.info("Just an information")
-    logger.warning("Its a Warning")
-    logger.error("Did you try to divide by zero")
-    logger.critical("Internet is down")
-    """
+
+
+    assert Name() == "Ori Server" , "Assert Test Failed"
+    assert 1 <= int(RandomNum()) <= 10, "Assert Test Failed"
+    logging.info("All Assert Tests Passed")
+
     main()
