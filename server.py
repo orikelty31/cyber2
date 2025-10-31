@@ -1,9 +1,9 @@
 import socket
 import datetime
 import random
+import logging
 
 MAX_PACKET = 1024
-time = datetime.datetime.now()
 SERVER_NAME = "Ori Server"
 QUEUE_LEN = 1
 
@@ -22,19 +22,49 @@ def main():
             finally:
                 mode = client_socket.recv(MAX_PACKET).decode()
                 if(mode == "TIME"):
-                    client_socket.send(f"Current date and time: {time}".encode())
+                    logging.info("Client Requested Server Time")
+                    client_socket.send(f"Current date and time: {Time()}".encode())
                 elif(mode == "NAME"):
-                    client_socket.send(('The Server Name Is: ' + SERVER_NAME).encode())
+                    logging.info("Client Requested Server Name")
+                    client_socket.send(('The Server Name Is: ' + Name()).encode())
                 elif(mode == "RAND"):
-                    client_socket.send(('The Random Number Is: ' + str(random.randint(1,10))).encode())
+                    logging.info("Client Requested A Random Number From 1-10")
+                    client_socket.send(('The Random Number Is: ' + RandomNum()).encode())
+                elif(mode == "EXIT"):
+                    logging.info("The Client Disconnected")
                 else:
-                    print("The Client Didn't Want Nothing")
+                    logging.warning("The Client Didn't Want Nothing")
+                    print("Warning Check server.log File")
                 client_socket.close()
         except socket.error as err:
             print('received socket error on server socket' + str(err))
         finally:
             my_socket.close()
 
+def Time():
+    time = datetime.datetime.now()
+    return time
+
+def Name():
+    return SERVER_NAME
+
+def RandomNum():
+    return str(random.randint(1,10))
+
 
 if __name__ == '__main__':
+    logging.basicConfig(
+        filename="server.log",
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        filemode="a",
+    )
+    """"
+    # Test messages
+    logger.debug("Harmless debug Message")
+    logger.info("Just an information")
+    logger.warning("Its a Warning")
+    logger.error("Did you try to divide by zero")
+    logger.critical("Internet is down")
+    """
     main()

@@ -1,0 +1,105 @@
+2025-10-31 13:57:25,760 Successfully Connected To The Server
+2025-10-31 13:57:27,557 The Client Didn't Choose One Of The Options
+2025-10-31 13:57:30,455 The Client Didn't Write Anything
+2025-10-31 13:57:37,419 The Client Didn't Choose One Of The Options
+2025-10-31 13:57:41,006 Successfully Connected To The Server
+2025-10-31 13:57:43,519 The Client Chose : TIME
+2025-10-31 13:57:43,520 Successfully Connected To The Server
+2025-10-31 13:58:40,816 - INFO - Successfully Connected To The Server
+2025-10-31 13:58:51,157 - INFO - The Client Chose : TIME
+2025-10-31 13:58:51,158 - INFO - Successfully Connected To The Server
+2025-10-31 13:59:04,097 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 13:59:10,559 - WARNING - The Client Didn't Write Anything
+2025-10-31 13:59:16,098 - INFO - Successfully Connected To The Server
+2025-10-31 13:59:27,913 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 13:59:37,963 - INFO - Successfully Connected To The Server
+2025-10-31 13:59:41,449 - INFO - The Client Chose : TIME
+2025-10-31 13:59:41,450 - INFO - Successfully Connected To The Server
+2025-10-31 13:59:43,061 - INFO - The Client Chose : TIME
+2025-10-31 13:59:43,062 - INFO - Successfully Connected To The Server
+2025-10-31 13:59:47,425 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 13:59:47,887 - WARNING - The Client Didn't Write Anything
+2025-10-31 13:59:48,275 - WARNING - The Client Didn't Write Anything
+2025-10-31 13:59:48,500 - WARNING - The Client Didn't Write Anything
+2025-10-31 13:59:49,614 - INFO - Successfully Connected To The Server
+2025-10-31 14:01:26,593 - INFO - The Client Disconnected
+2025-10-31 14:02:11,146 - INFO - Successfully Connected To The Server
+2025-10-31 14:02:12,870 - INFO - The Client Disconnected
+2025-10-31 14:02:25,645 - INFO - Successfully Connected To The Server
+2025-10-31 14:02:27,807 - INFO - The Client Disconnected
+2025-10-31 14:02:55,446 - INFO - Successfully Connected To The Server
+2025-10-31 14:02:57,759 - INFO - The Client Disconnected
+2025-10-31 14:03:01,008 - INFO - Successfully Connected To The Server
+2025-10-31 14:03:02,898 - INFO - The Client Chose : TIME
+2025-10-31 14:03:02,899 - INFO - Successfully Connected To The Server
+2025-10-31 14:03:09,374 - INFO - The Client Chose : TIME
+2025-10-31 14:03:09,374 - ERROR - Could Not Connect To The Server
+2025-10-31 14:03:09,374 - INFO - Successfully Connected To The Server
+2025-10-31 14:03:12,764 - INFO - Successfully Connected To The Server
+2025-10-31 14:03:15,124 - INFO - The Client Chose : TIME
+2025-10-31 14:03:15,124 - ERROR - Could Not Connect To The Server
+2025-10-31 14:03:15,124 - INFO - Successfully Connected To The Server
+2025-10-31 14:03:16,509 - INFO - The Client Chose : TIME
+2025-10-31 14:03:37,487 - INFO - Successfully Connected To The Server
+2025-10-31 14:03:38,974 - INFO - The Client Chose : TIME
+2025-10-31 14:03:38,975 - ERROR - Could Not Connect To The Server
+2025-10-31 14:03:38,975 - INFO - Successfully Connected To The Server
+2025-10-31 14:04:01,989 - INFO - Successfully Connected To The Server
+2025-10-31 14:04:03,787 - INFO - The Client Chose : TIME
+2025-10-31 14:04:03,787 - INFO - Successfully Connected To The Server
+2025-10-31 14:04:04,749 - INFO - The Client Chose : TIME
+2025-10-31 14:04:04,750 - INFO - Successfully Connected To The Server
+2025-10-31 14:04:05,912 - INFO - The Client Chose : RAND
+2025-10-31 14:04:05,913 - INFO - Successfully Connected To The Server
+2025-10-31 14:04:06,787 - INFO - The Client Disconnected
+2025-10-31 14:05:13,746 - INFO - Successfully Connected To The Server
+2025-10-31 14:05:15,440 - INFO - The Client Disconnected
+2025-10-31 14:05:17,814 - INFO - Successfully Connected To The Server
+2025-10-31 14:05:19,666 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:21,027 - INFO - The Client Chose : EXIT
+2025-10-31 14:05:37,190 - INFO - Successfully Connected To The Server
+2025-10-31 14:05:39,078 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:39,627 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:40,190 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:40,703 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:41,015 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:41,490 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:41,940 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:42,340 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:42,715 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:43,140 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:43,540 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:43,904 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:44,290 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:44,665 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:45,079 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:45,454 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:05:45,978 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:46,392 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:46,690 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:05:47,617 - INFO - The Client Chose : TIME
+2025-10-31 14:05:47,618 - INFO - Successfully Connected To The Server
+2025-10-31 14:05:49,254 - INFO - The Client Chose : TIME
+2025-10-31 14:05:49,255 - INFO - Successfully Connected To The Server
+2025-10-31 14:05:50,065 - INFO - The Client Chose : RAND
+2025-10-31 14:05:50,066 - INFO - Successfully Connected To The Server
+2025-10-31 14:05:52,079 - INFO - The Client Chose : NAME
+2025-10-31 14:05:52,080 - INFO - Successfully Connected To The Server
+2025-10-31 14:06:04,230 - WARNING - The Client Didn't Choose One Of The Options
+2025-10-31 14:06:04,329 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:06:04,429 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:06:04,540 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:06:04,640 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:06:04,779 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:06:04,904 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:06:04,984 - WARNING - The Client Didn't Write Anything
+2025-10-31 14:06:30,480 - INFO - Successfully Connected To The Server
+2025-10-31 14:06:32,493 - INFO - The Client Chose : TIME
+2025-10-31 14:06:34,516 - ERROR - Could Not Connect To The Server
+2025-10-31 14:06:34,517 - INFO - Successfully Connected To The Server
+2025-10-31 14:07:29,809 - INFO - Successfully Connected To The Server
+2025-10-31 14:07:31,746 - INFO - The Client Chose : TIME
+2025-10-31 14:07:31,747 - INFO - Successfully Connected To The Server
+2025-10-31 14:07:32,908 - INFO - The Client Chose : TIME
+2025-10-31 14:07:32,909 - INFO - Successfully Connected To The Server
+2025-10-31 14:07:40,821 - INFO - The Client Disconnected
